@@ -4,19 +4,17 @@
 
 # Tools
 * iverilog
-	- To compile a verilog code
-	i. `If all module and test bench are in same file.`
+	- To compile a verilog code. `If all module and test bench are in same file.`
 ```
 $ iverilog fileName.v      
 ```
-	ii. `Or by using below.`
+`Or by using below.`
 ```
 $ iverilog module1.v module2.v testBench.v
 ```
 
 * gtkwake
-	- For GUI observation using software called gtkwave.
-`For this, you have to use "$dumpfile("fileName.vcd");" and "$dumpvars(0, testBench);" functions in testBench module of verilog code.`
+	- For GUI observation using software called gtkwave. `For this, you have to use "$dumpfile("fileName.vcd");" and "$dumpvars(0, testBench);" functions in testBench module of verilog code.`
 ```
 $ gtkwave fileName.vcd
 ```
