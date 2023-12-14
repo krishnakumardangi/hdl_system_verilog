@@ -3,6 +3,8 @@
 # Verilog For Hardware Description Language
 
 # Tools
+* vim
+	- A simple text editor to write and create a verilog file with *.v extension.
 * iverilog
 	- To compile a verilog code. `If all module and test bench are in same file.`
 ```
