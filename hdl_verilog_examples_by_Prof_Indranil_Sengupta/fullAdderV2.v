@@ -6,7 +6,7 @@
  * Date: 14-12-2023
  * Version: 1.0.02
  * Other files: Not required
- * Status: 
+ * Status: Ok
  */
 
 module full_adder(a, b, c, s, c0);
