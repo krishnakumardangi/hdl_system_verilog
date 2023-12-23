@@ -1,4 +1,4 @@
-// Up-Down counter (synchronous clear)
+// Up-Down counter (synchronous clear) using Non-Blocking Procedural Assignment
 module counter (mode, clr, ld, d_in, clk, count);
     input mode, clr, ld, clk;
     input [0:7] d_in;
