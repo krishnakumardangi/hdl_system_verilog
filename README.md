@@ -1,5 +1,8 @@
 # System Verilog for HDL
 
+Hardware Description Languages (HDL) like Verilog and VHDL are used to describe hardware behavior so that it can be converted to digital blocks made up of combinational gates and sequential elements. In order to verify that the hardware description in HDL is correct, there is a need for a language with more features in OOP that will support complicated testing procedures and is often called a Hardware Verification Language.
+SystemVerilog is an extension of Verilog with many such verification features that allow engineers to verify the design using complex testbench structures and random stimuli in simulation.
+
 # Verilog For Hardware Description Language
 
 # Tools
