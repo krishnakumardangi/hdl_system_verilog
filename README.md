@@ -1,4 +1,4 @@
-# hdl_system_verilog
+# System Verilog for HDL
 
 # Verilog For Hardware Description Language
 
@@ -20,3 +20,21 @@ $ iverilog module1.v module2.v testBench.v
 ```
 $ gtkwave fileName.vcd
 ```
+
+
+
+# Abstraction in Modern Computing System
+
+* Application
+* Algorithm
+* Programming Language
+* Operating System/vertual Machines
+* Instruction Set Architecture
+* Micro-architecture
+* Register-Transfer Level
+* Gates
+* Circuits
+* Devices
+* Physics
+
+And Computer Architecture provide feedback to guide application and technology resesrch directions. That is ISA, Micro-Architecture and RTL.
